@@ -1,0 +1,5 @@
+//declaration number one
+int number=5;
+number=number+10;
+//print number after add
+System.out.print(number);
